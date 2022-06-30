@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egord\\Desktop\\GeekBrains\\C sharp\\Homework2\\Homework2.csproj",
+      "projectUniqueName": "C:\\Users\\egord\\Desktop\\GeekBrains\\C sharp\\Homework2\\task1\\Homework2.csproj",
       "projectName": "Homework2",
-      "projectPath": "C:\\Users\\egord\\Desktop\\GeekBrains\\C sharp\\Homework2\\Homework2.csproj",
+      "projectPath": "C:\\Users\\egord\\Desktop\\GeekBrains\\C sharp\\Homework2\\task1\\Homework2.csproj",
       "packagesPath": "C:\\Users\\egord\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egord\\Desktop\\GeekBrains\\C sharp\\Homework2\\obj\\",
+      "outputPath": "C:\\Users\\egord\\Desktop\\GeekBrains\\C sharp\\Homework2\\task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\egord\\AppData\\Roaming\\NuGet\\NuGet.Config"
